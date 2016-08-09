@@ -1,0 +1,1 @@
+BLD_CSRC-y += $(wildcard $(ROOT_DIR)/*.c)
